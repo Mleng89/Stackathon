@@ -1,6 +1,6 @@
 # INTO THE ABYSS :sparkles:
 
----
+___
 <details open>
 <summary>Basis of game</summary>
 <br>
@@ -31,7 +31,7 @@
 - [ ] Each character is unique (has their own passive skills)
   
   </details>
----
+___
 
 Game created in Phaser.js for 2021 Fullstack Academy's Stackathon
 
