@@ -31,8 +31,7 @@
 - [ ] Each character is unique (has their own passive skills)
   
   </details>
-___
-
+---
 Game created in Phaser.js for 2021 Fullstack Academy's Stackathon
 
 
