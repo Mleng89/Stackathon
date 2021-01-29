@@ -1,6 +1,6 @@
 # INTO THE ABYSS :sparkles:
 
-___
+
 <details open>
 <summary>Basis of game</summary>
 <br>
