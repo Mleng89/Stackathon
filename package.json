@@ -1,0 +1,21 @@
+{
+	"name": "dungeon-crawl-card",
+	"version": "1.0.0",
+	"description": "---",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"predeploy": "yarn build",
+		"deploy": "gh-pages -d build"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Mleng89/Stackathon.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Mleng89/Stackathon/issues"
+	},
+	"homepage": "https://mleng89.github.io/Stackathon/"
+}
