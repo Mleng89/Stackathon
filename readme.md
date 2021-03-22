@@ -31,10 +31,25 @@
 - [ ] Each character is unique (has their own passive skills)
   
   </details>
+  
+  <details open>
+<summary>Running the game</summary>
+<br>
+  - Fork or clone the repository onto your local machine 
+  <br>
+  - Open the repository in your IDE and type in: <b>npm install</b>
+ <br>
+  - Once everything is installed, make sure to have an extension within your IDE that allows you to run a live server.
+  <br>
+  - Click on live server to launch the game
+  - Have fun!
+  </details>
  
 <h2>Demo of the game</h2>
 
 ![Demo](https://github.com/Mleng89/Stackathon/blob/main/public/IntoTheAbyssDemo.gif)
+
+
 ---
 
 Game created in Phaser.js for 2021 Fullstack Academy's Stackathon
