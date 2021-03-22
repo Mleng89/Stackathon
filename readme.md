@@ -31,7 +31,10 @@
 - [ ] Each character is unique (has their own passive skills)
   
   </details>
-  
+ 
+<h2>Demo of the game</h2>
+
+![Demo](https://github.com/Mleng89/Stackathon/blob/main/public/IntoTheAbyssDemo.gif)
 ---
 
 Game created in Phaser.js for 2021 Fullstack Academy's Stackathon
