@@ -42,6 +42,7 @@
   - Once everything is installed, make sure to have an extension within your IDE that allows you to run a live server.
   <br>
   - Click on live server to launch the game
+  <br>
   - Have fun!
   </details>
  
